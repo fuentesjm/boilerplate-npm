@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jose Fuentes",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
 	"main": "server.js",
-	"author": "Jose Fuentes",
 	"scripts": {
 		"start": "node server.js"
 	},
